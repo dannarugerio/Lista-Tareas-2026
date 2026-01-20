@@ -173,7 +173,7 @@ body {
     background-color: var(--bg-task);
 }
 
-.tarea-texto{
+.tarea-texto {
     flex-grow: 1;
     flex-shrink: 1;
 }
